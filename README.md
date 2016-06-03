@@ -1,0 +1,1 @@
+## Django-angular boilerplate for personal projects
